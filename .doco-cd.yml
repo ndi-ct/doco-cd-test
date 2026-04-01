@@ -4,6 +4,6 @@ compose_files:
   - docker-compose.yml
 
 name: uptime
-working_dir: ./
+working_dir: uptime
 compose_files:
   - compose.yml
