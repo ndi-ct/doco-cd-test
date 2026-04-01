@@ -2,3 +2,8 @@ name: nginx-test
 working_dir: ./
 compose_files:
   - docker-compose.yml
+
+name: uptime
+working_dir: ./
+compose_files:
+  - compose.yml
